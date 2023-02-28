@@ -1,3 +1,3 @@
 # Mini Project (Seacrh and Sort)
 
-[Link](https://vimi-task.netlify.app/).
+To see the result, click this [Link](https://vimi-task.netlify.app/).
